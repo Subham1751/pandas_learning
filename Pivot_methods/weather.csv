@@ -1,0 +1,13 @@
+Date,Temperature,Wind_Speed,Weather,City
+2025-07-25,32.5,15,Sunny,Delhi
+2025-07-26,31.0,10,Cloudy,Delhi
+2025-07-27,30.0,12,Rain,Delhi
+2025-07-28,29.5,20,Rain,Mumbai
+2025-07-29,31.5,18,Sunny,Mumbai
+2025-07-30,28.0,25,Storm,Mumbai
+2025-07-31,30.5,8,Cloudy,Bangalore
+2025-08-01,29.0,15,Rain,Bangalore
+2025-08-02,27.5,10,Sunny,Bangalore
+2025-08-03,34.0,14,Sunny,Chennai
+2025-08-04,33.0,16,Cloudy,Chennai
+2025-08-05,32.0,13,Rain,Chennai

@@ -1,0 +1,11 @@
+Property_ID,Location,Type,Bedrooms,Area_sqft,Price_in_lakhs,Has_Parking
+R101,Mumbai,Apartment,2,850,145.0,True
+R102,Delhi,Villa,4,2200,360.5,True
+R103,Bangalore,Apartment,3,1250,190.75,False
+R104,Hyderabad,Apartment,2,900,130.0,True
+R105,Pune,Row House,3,1650,NA,True
+R106,Kolkata,Villa,5,3100,410.0,False
+R107,Chennai,Apartment,1,NA,88.5,True
+R108,Ahmedabad,Apartment,2,780,NA,False
+R109,Jaipur,Villa,4,2500,305.0,True
+R110,Surat,Apartment,NA,1100,165.4,True

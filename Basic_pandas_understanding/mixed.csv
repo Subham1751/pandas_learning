@@ -1,0 +1,6 @@
+ID,Name,Age,Salary,Joined,Active,Department,Rating,Remarks
+101,John Doe,29,55000.50,2020-01-15,TRUE,Sales,4.5,Top performer
+102,Jane Smith,34,,2019-11-01,FALSE,HR,3.8
+103,Ali Khan,28,48000.00,2021-06-23,TRUE,IT,4.1,Promoted recently
+104,Mira Das,,61000.75,2022-04-10,FALSE,Finance,4.0,On probation
+105,Wei Zhang,40,72000.00,,TRUE,Marketing,,Left company
